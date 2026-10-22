@@ -1,0 +1,58 @@
+﻿namespace TCG.Shared
+{
+    // English texts of Plugin.cs (French, English).
+    internal static partial class Lang
+    {
+        static readonly string[] En_TCG_GameModes_Plugin =
+        {
+            "Retournez au menu principal pour modifier les règles.",
+                "Go back to the main menu to change the rules.",
+            "Règles : {0}",
+                "Rules: {0}",
+            "Importer une sauvegarde",
+                "Import a save",
+            "Une nouvelle boutique",
+                "A new shop",
+            "Modifiez les règles puis enregistrez. Les meubles déjà installés sont conservés.",
+                "Change the rules, then save. Furniture already placed is kept.",
+            "Classique",
+                "Classic",
+            "Cartes uniquement",
+                "Cards only",
+            "Personnalisé",
+                "Custom",
+            "Importer",
+                "Import",
+            "Reprendre une sauvegarde du jeu d'origine, conservée avant l'installation du gestionnaire de sauvegardes. Choisissez ensuite l'emplacement à importer et vérifiez son aperçu.",
+                "Bring back a save of the base game, kept from before the save manager was installed. Then choose the slot to import and check its preview.",
+            "L'import crée une nouvelle boutique à partir d'une copie. La sauvegarde source est conservée. Si elle utilisait déjà des mods, ceux-ci peuvent être nécessaires pour la charger correctement.",
+                "Importing creates a new shop from a copy. The original save is kept. If it already used mods, they may be needed to load it correctly.",
+            "Annuler",
+                "Cancel",
+            "Choisir la sauvegarde à importer",
+                "Choose the save to import",
+            "Import impossible : {0}",
+                "Import failed: {0}",
+            "Les règles habituelles du jeu.",
+                "The usual rules of the game.",
+            "Achetez et ouvrez des boosters. Les clients achètent uniquement vos cartes individuelles. Les tables de vente sont accessibles dès le départ et le désodorisant reste commandable. Pour choisir les éditions vendues, partez du modèle « Cartes à l’unité » en Personnalisé.",
+                "Buy and open boosters. Customers only buy your single cards. Card tables are available from the start and air freshener can still be ordered. To choose which editions are sold, start from the “Single cards” template in Custom.",
+            "Enregistrer les règles",
+                "Save the rules",
+            "Créer ma boutique",
+                "Create my shop",
+            "Règles enregistrées. Elles seront appliquées au prochain chargement.",
+                "Rules saved. They apply from the next load.",
+            "Boutique créée. Choisissez Commencer cette boutique.",
+                "Shop created. Choose Start this shop.",
+            "Création impossible : {0}",
+                "Creation failed: {0}",
+            "Les règles seront appliquées au prochain chargement de cette boutique.",
+                "The rules apply from the next load of this shop.",
+            "Règles",
+                "Rules",
+            "Règles indisponibles : {0}",
+                "Rules unavailable: {0}",
+        };
+    }
+}

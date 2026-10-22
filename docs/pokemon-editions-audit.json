@@ -1,0 +1,429 @@
+[
+  {
+    "Item": "BaseSetBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Base Set",
+    "Spawns": ""
+  },
+  {
+    "Item": "BaseSetBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "BaseSetBoosterPacks"
+  },
+  {
+    "Item": "1stEditionBaseSetBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Base Set",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionBaseSetBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionBaseSetBoosterPacks"
+  },
+  {
+    "Item": "JungleBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Jungle",
+    "Spawns": ""
+  },
+  {
+    "Item": "JungleBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "JungleBoosterPacks"
+  },
+  {
+    "Item": "1stEditionJungleBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Jungle",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionJungleBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionJungleBoosterPacks"
+  },
+  {
+    "Item": "FossilBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Fossil",
+    "Spawns": ""
+  },
+  {
+    "Item": "FossilBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "FossilBoosterPacks"
+  },
+  {
+    "Item": "1stEditionFossilBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Fossil",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionFossilBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionFossilBoosterPacks"
+  },
+  {
+    "Item": "BaseSet2BoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Base Set 2",
+    "Spawns": ""
+  },
+  {
+    "Item": "BaseSet2BoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "BaseSet2BoosterPacks"
+  },
+  {
+    "Item": "TeamRocketBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Team Rocket",
+    "Spawns": ""
+  },
+  {
+    "Item": "TeamRocketBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "TeamRocketBoosterPacks"
+  },
+  {
+    "Item": "1stEditionTeamRocketBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Team Rocket",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionTeamRocketBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionTeamRocketBoosterPacks"
+  },
+  {
+    "Item": "GymHeroesBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Gym Heroes",
+    "Spawns": ""
+  },
+  {
+    "Item": "GymHeroesBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "GymHeroesBoosterPacks"
+  },
+  {
+    "Item": "1stEditionGymHeroesBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Gym Heroes",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionGymHeroesBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionGymHeroesBoosterPacks"
+  },
+  {
+    "Item": "GymChallengeBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Gym Challenge",
+    "Spawns": ""
+  },
+  {
+    "Item": "GymChallengeBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "GymChallengeBoosterPacks"
+  },
+  {
+    "Item": "1stEditionGymChallengeBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Gym Challenge",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionGymChallengeBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionGymChallengeBoosterPacks"
+  },
+  {
+    "Item": "NeoGenesisBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Neo Genesis",
+    "Spawns": ""
+  },
+  {
+    "Item": "NeoGenesisBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "NeoGenesisBoosterPacks"
+  },
+  {
+    "Item": "1stEditionNeoGenesisBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Neo Genesis",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionNeoGenesisBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionNeoGenesisBoosterPacks"
+  },
+  {
+    "Item": "NeoDiscoveryBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Neo Discovery",
+    "Spawns": ""
+  },
+  {
+    "Item": "NeoDiscoveryBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "NeoDiscoveryBoosterPacks"
+  },
+  {
+    "Item": "1stEditionNeoDiscoveryBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Neo Discovery",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionNeoDiscoveryBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionNeoDiscoveryBoosterPacks"
+  },
+  {
+    "Item": "NeoRevelationBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Neo Revelation",
+    "Spawns": ""
+  },
+  {
+    "Item": "NeoRevelationBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "NeoRevelationBoosterPacks"
+  },
+  {
+    "Item": "1stEditionNeoRevelationBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Neo Revelation",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionNeoRevelationBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionNeoRevelationBoosterPacks"
+  },
+  {
+    "Item": "NeoDestinyBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Neo Destiny",
+    "Spawns": ""
+  },
+  {
+    "Item": "NeoDestinyBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "NeoDestinyBoosterPacks"
+  },
+  {
+    "Item": "1stEditionNeoDestinyBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "1st Edition Neo Destiny",
+    "Spawns": ""
+  },
+  {
+    "Item": "1stEditionNeoDestinyBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "1stEditionNeoDestinyBoosterPacks"
+  },
+  {
+    "Item": "LegendaryCollectionBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Legendary Collection",
+    "Spawns": ""
+  },
+  {
+    "Item": "LegendaryCollectionBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "LegendaryCollectionBoosterPacks"
+  },
+  {
+    "Item": "ExpedtitionBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Expedition",
+    "Spawns": ""
+  },
+  {
+    "Item": "ExpeditionBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "ExpedtitionBoosterPacks"
+  },
+  {
+    "Item": "AquapolisBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Aquapolis",
+    "Spawns": ""
+  },
+  {
+    "Item": "AquapolisBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "AquapolisBoosterPacks"
+  },
+  {
+    "Item": "SkyridgeBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Skyridge",
+    "Spawns": ""
+  },
+  {
+    "Item": "SkyridgeBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "SkyridgeBoosterPacks"
+  },
+  {
+    "Item": "EXRubyAndSapphireBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "EX Ruby And Sapphire",
+    "Spawns": ""
+  },
+  {
+    "Item": "EXRubyAndSapphireBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "EXRubyAndSapphireBoosterPacks"
+  },
+  {
+    "Item": "EXSandstormBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "EX Sandstorm",
+    "Spawns": ""
+  },
+  {
+    "Item": "EXSandstormBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "EXSandstormBoosterPacks"
+  },
+  {
+    "Item": "EXDragonBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "EX Dragon",
+    "Spawns": ""
+  },
+  {
+    "Item": "EXDragonBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "EXDragonBoosterPacks"
+  },
+  {
+    "Item": "EXTeamMagmavsTeamAquaBoosterPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "EX Team Magma vs Team Aqua",
+    "Spawns": ""
+  },
+  {
+    "Item": "EXTeamMagmavsTeamAquaBoosterBox",
+    "Pack": false,
+    "Box": true,
+    "Edition": "",
+    "Spawns": "EXTeamMagmavsTeamAquaBoosterPacks"
+  },
+  {
+    "Item": "Space-TimeSmackdownPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Space-Time Smackdown",
+    "Spawns": ""
+  },
+  {
+    "Item": "TriumphantLightPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Triumphant Light",
+    "Spawns": ""
+  },
+  {
+    "Item": "ShiningRevelryPacks",
+    "Pack": true,
+    "Box": false,
+    "Edition": "Shining Revelry",
+    "Spawns": ""
+  }
+]
