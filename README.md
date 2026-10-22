@@ -8,7 +8,7 @@ Full description, settings and FAQ: [mod page](publish/TCG_Custom_Game_Modes/REA
 
 ## Install
 
-Players: install it from Thunderstore (r2modman) or Nexus Mods. Requires BepInEx 5 and [TCG Save Manager](https://github.com/dr4z0or/TCG-Save-Manager).
+**Download:** [Nexus Mods](https://www.nexusmods.com/tcgcardshopsimulator/mods/1928) (Thunderstore / r2modman: coming soon). Requires BepInEx 5 and [TCG Save Manager](https://github.com/dr4z0or/TCG-Save-Manager).
 
 ## Building from source (Windows, .NET SDK 8)
 
@@ -32,4 +32,4 @@ Install: `TCG.GameModes.dll` in `BepInEx/plugins/TCGGameModes`.
 
 ---
 
-**En français :** Règles par boutique : Classique, Cartes uniquement ou Personnalisé (produits, éditions de cartes, meubles, activités). Nécessite TCG Save Manager. Les joueurs l'installent depuis Thunderstore ou Nexus ; ce dépôt contient le code source.
+**En français :** Règles par boutique : Classique, Cartes uniquement ou Personnalisé (produits, éditions de cartes, meubles, activités). Nécessite TCG Save Manager. Les joueurs le téléchargent sur [Nexus Mods](https://www.nexusmods.com/tcgcardshopsimulator/mods/1928) (bientôt sur Thunderstore) ; ce dépôt contient le code source.
